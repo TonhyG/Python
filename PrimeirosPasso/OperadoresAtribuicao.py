@@ -44,5 +44,5 @@ print(numero)  # Exibe o novo valor da variável numero
 print("\n\n")  # Pula duas linhas para melhor visualização
 
 numero = 10  # Reinicia o valor da variável numero para 10
-numero *= 2  # Multiplica o valor atual da variável numero por 2, mas não altera o valor da variável
+numero * 2  # Multiplica o valor atual da variável numero por 2, mas não altera o valor da variável
 print(numero)  # Exibe o valor original da variável numero, que permanece inalterado
